@@ -1,0 +1,23 @@
+__pycache__/
+external/
+companion-evaluation.json
+selected-player-country.json
+fast-import-report.json
+*.pyc
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+.pytest_cache/
+report.json
+# Local user save data and generated reports
+*.sav
+imported-save.json
+selected-country.json
+selected-colonies.json
+empire-context.json
+economy-report.json
+empire-*-report.json
+empire-*-plan.json
+empire-*-plan.txt
